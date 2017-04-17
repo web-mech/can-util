@@ -1,4 +1,4 @@
-var canDev = require("../dev/dev");
+var canDev = require("can-util/js/dev/dev");
 
 /**
  * @module can-util/js/ajax/ajax ajax
