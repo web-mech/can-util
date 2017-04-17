@@ -1,4 +1,4 @@
-var global = require("../../js/global/global");
+var global = require("can-global");
 
 /**
  * @module {function} can-util/dom/location/location location

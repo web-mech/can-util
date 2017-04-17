@@ -1,4 +1,4 @@
-var global = require("../../js/global/global")();
+var global = require("can-global")();
 var setMutationObserver;
 module.exports = function(setMO){
 	if(setMO !== undefined) {

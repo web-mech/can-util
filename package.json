@@ -73,10 +73,15 @@
     "parent": "can-util"
   },
   "dependencies": {
+    "can-ajax": "^1.0.0",
+    "can-assign": "^1.0.0",
     "can-cid": "^1.0.0",
     "can-deparam": "^1.0.0",
+    "can-global": "^1.0.0",
+    "can-is-browser-window": "^1.0.0",
     "can-namespace": "1.0.0",
     "can-param": "^1.0.0",
+    "can-parse-uri": "^1.0.0",
     "can-types": "^1.0.1"
   }
 }

@@ -1,6 +1,6 @@
-var assign = require("../../js/assign/assign");
+var assign = require("can-assign");
 var _document = require("../document/document");
-var isBrowserWindow = require("../../js/is-browser-window/is-browser-window");
+var isBrowserWindow = require("can-is-browser-window");
 var isPlainObject = require("../../js/is-plain-object/is-plain-object");
 var fixSyntheticEventsOnDisabled = false;
 

@@ -6,7 +6,7 @@
  *
  * ```js
  * var isWebWorker = require("can-util/js/is-web-worker/is-web-worker");
- * var GLOBAL = require("can-util/js/global/global");
+ * var GLOBAL = require("can-global");
  *
  * if(isWebWorker()) {
  *   console.log(GLOBAL() === self); // -> true

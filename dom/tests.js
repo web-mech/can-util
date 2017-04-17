@@ -1,4 +1,3 @@
-require("./ajax/ajax-test");
 require("./attr/attr-test");
 require("./data/data-test");
 require("./dispatch/dispatch-test");

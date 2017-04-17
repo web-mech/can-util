@@ -1,4 +1,4 @@
-var assign = require('../assign/assign');
+var assign = require('can-assign');
 
 /**
  * @module {function} can-util/js/diff-object/diff-object diff-object

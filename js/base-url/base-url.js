@@ -1,4 +1,4 @@
-var getGlobal = require("../global/global");
+var getGlobal = require("can-global");
 
 /**
  * @module {function} can-util/js/base-url/base-url base-url

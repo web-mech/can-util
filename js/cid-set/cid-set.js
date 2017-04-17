@@ -1,4 +1,4 @@
-var GLOBAL = require("../global/global");
+var GLOBAL = require("can-global");
 var each = require("../each/each");
 var getCID = require("../cid/get-cid");
 

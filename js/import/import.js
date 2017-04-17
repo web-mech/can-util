@@ -1,5 +1,5 @@
 var isFunction = require('../is-function/is-function');
-var global = require("../global/global")();
+var global = require("can-global")();
 
 /**
  * @module {function} can-util/js/import/import import

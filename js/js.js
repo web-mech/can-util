@@ -1,17 +1,17 @@
 
 
 module.exports = {
-	assign: require('./assign/assign'),
+	assign: require('can-assign'),
 	cid: require('./cid/cid'),
 	deepAssign: require('./deep-assign/deep-assign'),
 	dev: require('./dev/dev'),
 	diff: require('./diff/diff'),
 	each: require('./each/each'),
-	global: require('./global/global'),
+	global: require('can-global'),
 	"import": require('./import/import'),
 	isArray: require('./is-array/is-array'),
 	isArrayLike: require('./is-array-like/is-array-like'),
-	isBrowserWindow: require('./is-browser-window/is-browser-window'),
+	isBrowserWindow: require('can-is-browser-window'),
 	isEmptyObject: require('./is-empty-object/is-empty-object'),
 	isFunction: require('./is-function/is-function'),
 	isNode: require('./is-node/is-node'),
