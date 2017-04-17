@@ -33,3 +33,6 @@ dist/
 
 doc/GREADME.md
 doc/docMap.json
+
+.DS_Store
+**/.DS_Store
